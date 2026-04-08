@@ -31,7 +31,7 @@ Scene2Drive
 │   ├── scene-centric_QAs.json
 │   ├── ego-centric_QAs.json
 │   ├── vedio
-
+```
 
 ## Visualization Examples
 
