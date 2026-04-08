@@ -21,9 +21,9 @@ pip install -r requirements.txt
 
 
 ### Scene2Drive Dataset
-We provide json file with scene-centric QAs from  , and json file with ego-centric QAs from  .
+We provide json file with scene-centric QAs and ego-centric QAs from  .
 
-Download the matched video folder from .
+Download the matched raw images from https://www.nuscenes.org/nuscenes.
 
 ```Shell
 Scene2Drive
