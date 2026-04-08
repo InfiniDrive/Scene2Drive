@@ -35,6 +35,6 @@ Scene2Drive
 
 ## Visualization Examples
 
-<div align="center">
-<img src="./assets/vis.png">
-</div>
+<p align="center">
+  <img src="assets/vis.png">
+</p>
