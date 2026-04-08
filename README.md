@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="assets/simlingo_teaser.png">
+  <img src="assets/scene2drive.png">
 </p>
 
 
